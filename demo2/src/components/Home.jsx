@@ -32,7 +32,7 @@ function Home() {
       <SkillsBox 
       heading = "Frontend Framework"
       title1 = "React"
-      url1 = "build/images/react.png"
+      url1 = "demo2/build/images/react.png"
       // url1 = {PF +"/images/react.png"}
       title2 = "JQuery"
       url2 = "build/images/jquery.jpg"
