@@ -32,14 +32,14 @@ function Home() {
       <SkillsBox 
       heading = "Frontend Framework"
       title1 = "React"
-      // url1 = "/images/react.png"
-      url1 = {PF +"/images/react.png"}
+      url1 = "/images/react.png"
+      // url1 = {PF +"/images/react.png"}
       title2 = "JQuery"
-      // url2 = "/images/jquery.jpg"
-      url2 = {PF +"/images/jquery.jpg"}
+      url2 = "/images/jquery.jpg"
+      // url2 = {PF +"/images/jquery.jpg"}
       title3 = "Bootstrap"
-      // url3 = "/images/bootstrap.png"
-      url3 = {PF +"/images/bootstrap.png"}
+      url3 = "/images/bootstrap.png"
+      // url3 = {PF +"/images/bootstrap.png"}
       />
 
       <Footer />
